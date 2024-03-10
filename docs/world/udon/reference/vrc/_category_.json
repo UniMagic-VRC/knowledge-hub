@@ -1,0 +1,8 @@
+{
+  "label": "VRC関係",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "world/udon/reference/vrc/index"
+  }
+}
