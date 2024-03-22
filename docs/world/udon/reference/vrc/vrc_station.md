@@ -55,7 +55,7 @@ Get/Set可
 注：基本的にはHMDやコントローラーなどの動作が優先されます。
 完全にアニメーションで上書きするためには、FinalIKを使う、もしくはAvatarSDKをWorldのプロジェクトに入れるといった黒魔術が必要になります。
 
-![animator_controller](/img/world/udon/reference/vrc/vrc_station/can_use_from_station.png)
+![animator_controller](/img/world/udon/reference/vrc/vrc_station/animator_controller.png)
 
 ### bool disableStationExit「プレイヤーがSit判定から出れないようにするかどうか」
 
