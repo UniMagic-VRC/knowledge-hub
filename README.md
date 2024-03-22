@@ -12,6 +12,8 @@ static/tabler以下およびstatic/unimagic以下のファイルは別ライセ�
 
 ## テスト・デプロイ方法など
 
+Node.js v20を使用しています。
+
 ### Installation
 
 ```bash
