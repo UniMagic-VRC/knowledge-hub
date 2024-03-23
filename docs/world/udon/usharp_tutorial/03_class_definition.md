@@ -49,7 +49,8 @@ sidebar_position: 4
 }
 ```
 
-これを踏まえ、先ほど作ったファイルを見てみましょう。
+これを踏まえ、先ほど作ったファイルを見てみましょう。  
+（`//`の部分はコメントで、行内でこれ以降に書いたことは、プログラムに影響を与えません。）
 
 ```csharp
 public class MyFirstUdon : UdonSharpBehaviour
