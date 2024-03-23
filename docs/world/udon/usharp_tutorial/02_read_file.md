@@ -76,4 +76,6 @@ usingした名前空間は、記述を省略することができます。
 
 7行目から13行目までが、クラスの定義となります。
 
+皆さんが書いていくプログラムの大部分は、ここに記述することになります。
+
 ![program2](/img/world/udon/usharp_tutorial/02_read_file/program2.png)
