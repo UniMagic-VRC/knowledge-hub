@@ -13,3 +13,7 @@ UnityのProjectウインドウで右クリックし、「Create」→「U# Scrip
 以下のように、2つのファイルが生成されればOKです。
 
 ![asset and cs file](/img/world/udon/usharp_tutorial/01_create_file/asset_and_cs_file.png)
+
+なお、「Create」→「VRChat」→「Udon」「U# Program Asset」をクリックしてUdonSharpファイルを作成すべき**ではありません**。
+
+この方法では、「U# Program Asset」に紐づけられるC# Scriptファイルが生成されないためです。
